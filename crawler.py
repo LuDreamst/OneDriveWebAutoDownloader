@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 screenwidth, screenhight = pyautogui.size()
-folderPath = 'D:\\VSCodeProjects\\Python\\OCTA2024\\picts\\'
+folderPath = r''
 
 
 def Location(png, confidence=0.8):
@@ -42,3 +42,4 @@ while True:
             time.sleep(1)
         else:
             break
+
