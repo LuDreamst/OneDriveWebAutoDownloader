@@ -1,4 +1,4 @@
-# OneDriveWebAutoDownloader  
+# OneDriveWebAutoGUI  
 又一个没啥用的小玩意儿  
   
 A simple and crude .py based on pyautogui to make downloading files separately from OneDriveWeb easier.  
